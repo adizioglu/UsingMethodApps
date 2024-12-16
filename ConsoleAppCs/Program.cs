@@ -1,0 +1,2 @@
+﻿ConsoleAppCs.Method.SayHi();    
+
